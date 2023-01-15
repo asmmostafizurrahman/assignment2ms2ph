@@ -94,6 +94,7 @@ font-size: 18px;
 }
 .features div>h2{
     border-left: 5px solid #FF900E;
+    padding-left: 10px;
 }
 #ftp{
     padding-top: 24px;
