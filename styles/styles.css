@@ -131,7 +131,12 @@ font-size: 18px;
     text-align: center;
     margin-top: 100px;
     padding: 45px;
+    transition: width 1s, height 1s , transform 1s;
     
+}
+.facts .f2 ul li:hover{
+    transform: rotate(180deg);
+
 }
 .facts>div>ul{
     list-style-type: none;
